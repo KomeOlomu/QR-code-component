@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![}(C:\Users\Uyoyo\Pictures\Screenshots\Screenshot (1).png)
+![](C:\Users\Uyoyo\Pictures\Screenshots\Screenshot (1).png)
 
 ## My process
 
