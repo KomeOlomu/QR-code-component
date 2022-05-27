@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](C:\Users\Uyoyo\Pictures\Screenshots\Screenshot (1).png)
+!(C:\Users\Uyoyo\Pictures\Screenshots\Screenshot (1).png)
 
 ## My process
 
@@ -26,7 +26,7 @@ Going foward, I intend to strengthen my CSS skills and continue my javascript le
 ### Useful resources
 
 - [MDN Wed Docs](https://developer.mozilla.org/en-US/) - This helped me with properties I was not good with and I learnt how to properly use each property accurately. I really liked this website and will use it more going forward.
--
+
 ## Author
 
 - Frontend Mentor - [@KomeOlomu](https://www.frontendmentor.io/profile/KomeOlomu)
